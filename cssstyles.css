@@ -1,0 +1,15 @@
+#para{
+    background-color:tomato;
+     color:white;
+      border:5px solid red; 
+      font-size:40px; 
+      font-family:forte;
+       box-shadow:5px 5px 5px 5px black;
+        text-shadow:15px 15px black;
+} 
+#feild{
+    border:10px solid black; 
+    width:1300px;  
+    font-size:44px;
+     text-align:center;
+}
